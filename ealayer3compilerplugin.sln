@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAssetBuilder.AudioCompiler", "BinaryAssetBuilder.AudioCompiler\BinaryAssetBuilder.AudioCompiler.csproj", "{8CA69D2E-BCAD-4D2C-928F-5726B9CF6731}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAssetBuilder.EALayer3AudioCompiler", "BinaryAssetBuilder.EALayer3AudioCompiler\BinaryAssetBuilder.EALayer3AudioCompiler.csproj", "{8CA69D2E-BCAD-4D2C-928F-5726B9CF6731}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAssetBuilder.AudioCompilerTW", "BinaryAssetBuilder.AudioCompilerTW\BinaryAssetBuilder.AudioCompilerTW.csproj", "{64EBD17C-48AB-4B5D-B5C6-40704C9B593F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryAssetBuilder.EALayer3AudioCompilerTW", "BinaryAssetBuilder.EALayer3AudioCompilerTW\BinaryAssetBuilder.EALayer3AudioCompilerTW.csproj", "{64EBD17C-48AB-4B5D-B5C6-40704C9B593F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
