@@ -1,0 +1,5 @@
+/.vs
+/*.7z
+bin
+obj
+*.user
