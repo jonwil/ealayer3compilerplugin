@@ -332,6 +332,7 @@ namespace BinaryAssetBuilder.EALayer3AudioCompiler
 
         public void ReInitialize(object configObject, TargetPlatform platform)
         {
+            SIMEX_shutdown();
             Initialize(configObject, platform);
         }
 
